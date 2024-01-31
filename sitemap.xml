@@ -21,4 +21,19 @@
         <changefreq>none</changefreq>
         <priority>0.6</priority>
     </url>
+        <url>
+        <loc>https://the-babadi-bois.github.io/Reviews/FO3/</loc>
+        <changefreq>none</changefreq>
+        <priority>0.6</priority>
+    </url>
+        <url>
+        <loc>https://the-babadi-bois.github.io/Reviews/Changed/</loc>
+        <changefreq>none</changefreq>
+        <priority>0.6</priority>
+    </url>
+        <url>
+        <loc>https://the-babadi-bois.github.io/Reviews/Nothing/</loc>
+        <changefreq>none</changefreq>
+        <priority>0.6</priority>
+    </url>
 </urlset>
